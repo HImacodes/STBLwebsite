@@ -63,3 +63,12 @@ hr{
     border-color:aqua;
     
 }
+#video,#work,#writing{
+    text-align:center;
+}
+.articles:hover{
+   color:aqua;
+}
+a{
+    text-decoration:none;
+}
